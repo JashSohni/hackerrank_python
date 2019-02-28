@@ -1,0 +1,5 @@
+a = input()
+b = input()
+print "%d"%(a+b)
+print "%d"%(a-b)
+print "%d"%(a*b)
