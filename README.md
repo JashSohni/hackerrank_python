@@ -14,6 +14,7 @@ Medium Section
 | Problem  | Solution |
 | ------------- | ------------- |
 | The Minion Game | [minion.py](https://github.com/JashSohni/hackerrank_python/blob/master/minion.py)  |
+| Merge the Tools! | [merge_tools.py](https://github.com/JashSohni/hackerrank_python/blob/master/merge_tools.py)  |
 
 
 
