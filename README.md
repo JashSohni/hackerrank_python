@@ -16,6 +16,7 @@ Medium Section
 | The Minion Game | [minion.py](https://github.com/JashSohni/hackerrank_python/blob/master/minion.py)  |
 | Merge the Tools! | [merge_tools.py](https://github.com/JashSohni/hackerrank_python/blob/master/merge_tools.py)  |
 | Word Order | [word_order.py](https://github.com/JashSohni/hackerrank_python/blob/master/word_order.py)  |
+| Piling Up! | [piling_up.py](https://github.com/JashSohni/hackerrank_python/blob/master/piling_up.py)  |
 
 
 
